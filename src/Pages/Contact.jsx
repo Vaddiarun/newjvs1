@@ -5,7 +5,7 @@ export const Contact = () => {
   const dealers = [
     { id: 1, name: 'Jagadeesh', contact: '7981199667', icon: <FcManager /> },
     { id: 2, name: 'Vijay', contact: '8309329444', icon: <FcManager /> },
-    { id: 3, name: 'Suresh', contact: '8970834996', icon: <FcManager /> },
+    { id: 3, name: 'Chethan', contact: '8970834996', icon: <FcManager /> },
   ];
 
   const [showContacts, setShowContacts] = useState(false);

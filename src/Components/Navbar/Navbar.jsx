@@ -188,6 +188,7 @@ const Navbar = () => {
         </Link> */}
          <Link to="/create-page"  className="text-2xl flex justify-center items-center gap-2 hover:text-orange-400 ml-10">
          <CiSignpostR1 /> Create
+         onClick={() => setOpen(false)}
           </Link>
         <Link
           to="/contactpage"
@@ -195,6 +196,7 @@ const Navbar = () => {
           onClick={() => setOpen(false)}
         >
           <MdConnectWithoutContact /> Contact
+          onClick={() => setOpen(false)}
         </Link>
         
         {sucess ? (
