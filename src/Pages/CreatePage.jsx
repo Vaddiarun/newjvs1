@@ -103,6 +103,8 @@ const CreatePage = () => {
               <option value="shoes">Shoes</option>
               <option value="tshirt">Tshirt</option>
               <option value="tie">Tie</option>
+              <option value="blouse">Blouse</option>
+              <option value="blazer">Blazer</option>
             </select>
           </div>
 

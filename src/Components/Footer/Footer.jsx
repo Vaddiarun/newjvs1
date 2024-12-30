@@ -66,7 +66,7 @@ export const Footer = () => {
                   className="text-blue-400 hover:underline"
                 >
                  
-                  jvsuniformmarketing@example.com
+                  jvsuniformmarketing@gmail.com
                 </a>
               </li>
             </ul>

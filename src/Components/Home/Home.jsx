@@ -52,6 +52,14 @@ const Home = () => {
     value:"tie",
     imageUrl:"https://www.tiemart.com/cdn/shop/articles/unnamed_6aee1fbe-219e-4541-9f98-dea04355eec4_750x.jpg?v=1705614497"
   },
+  {name:"blazer",
+    value:"blazer",
+    imageUrl:"https://5.imimg.com/data5/RY/YJ/UT/SELLER-2676438/boys-uniform-with-blazer-500x500.jpg"
+  },
+  {name:"Blouse",
+    value:"blouse",
+    imageUrl:"https://cdn11.bigcommerce.com/s-f46ca/images/stencil/760x760/products/3404/18749/cotton_school_blouse_gbw1_front__76961.1525771523.jpg?c=2"
+  },
 ]
   return (
     <div className="p-4">
