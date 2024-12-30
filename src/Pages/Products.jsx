@@ -76,7 +76,7 @@ export const Products = () => {
               ))
             ) : (
               <div className="col-span-4 text-center mt-10 p-4 text-2xl text-gray-600 relative overflow-hidden flex justify-center">
-                <div className="absolute inset-0 border-2 border-red-400 rounded-xl animate-bubble"></div>
+                {/* <div className="absolute inset-0 border-2 border-red-400 rounded-xl animate-bubble"></div> */}
                <img  className="sm:w-[20px] lg:w-[300px]" src="https://cdni.iconscout.com/illustration/premium/thumb/product-is-empty-illustration-download-in-svg-png-gif-file-formats--no-records-list-record-emply-data-user-interface-pack-design-development-illustrations-6430781.png?f=webp"/>
               </div>
             )}
